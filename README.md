@@ -23,6 +23,7 @@
  - The filterImages function is used to display only the relevant images based on the category selected by the user, making the gallery interactive.
  
 *** Key Features: ***
+
  *-* Responsive design: The layout adjusts for different screen sizes, providing a mobile-friendly experience.
  
  *-* Interactive filtering: Users can filter images by category (Buildings, Sky, Cars, Fruits) and view only the images they are interested in.

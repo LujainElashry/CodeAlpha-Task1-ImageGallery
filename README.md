@@ -24,5 +24,7 @@
  
 *** Key Features: ***
  *-* Responsive design: The layout adjusts for different screen sizes, providing a mobile-friendly experience.
+ 
  *-* Interactive filtering: Users can filter images by category (Buildings, Sky, Cars, Fruits) and view only the images they are interested in.
+ 
  *-* Modal Image Viewer: Clicking on an image opens it in a larger view with additional information, and users can navigate through images without closing the modal.
